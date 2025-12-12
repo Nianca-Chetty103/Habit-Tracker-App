@@ -14,6 +14,8 @@ as a Student decided to build my own habit tracker to keep me productive using J
 
 ## How does it help the community
 - keep them on track with daily tasks.
+- makes users more productive.
+- encourages users to do more in less time
 
 ## Tech Stack
 - javascript
