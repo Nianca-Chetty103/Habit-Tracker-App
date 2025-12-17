@@ -16,6 +16,8 @@ as a Student decided to build my own habit tracker to keep me productive using J
 - keep them on track with daily tasks.
 - makes users more productive.
 - encourages users to do more in less time
+- Promote long-term change positively
+- encourages self-reflection and responsibility
 
 ## Tech Stack
 - javascript
