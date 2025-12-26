@@ -1,7 +1,7 @@
-# Habit-Tracker-App 🌺
+# Habit-Tracker-App 🌺 📆
 as a Student decided to build my own habit tracker to keep me productive using JavaScript where Ill be able to keep progress on health routines like drinking 2Ls of water everyday, going to gym as well as being able to keep track of what tasks through a daily planner and etc. 
 
-## Features 
+## Features ⭐
 - has animations that motivate the user like confetti, streak animations, etc.
 - be able to track your daily habits.
 - has calendar iew will be able to store events taking place.
@@ -20,7 +20,7 @@ as a Student decided to build my own habit tracker to keep me productive using J
 - encourages self-reflection and responsibility
 
 ## Tech Stack
-- javascript
+- Javascript
 - css
 - html 
 
