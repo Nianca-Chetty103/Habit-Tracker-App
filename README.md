@@ -12,7 +12,7 @@ as a Student decided to build my own habit tracker to keep me productive using J
 - implementing style on habit tracker.
 - styling make program efficent for the user.
 
-## How does it help the community
+## How does it help the community 🏫
 - keep them on track with daily tasks.
 - makes users more productive.
 - encourages users to do more in less time
